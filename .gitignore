@@ -1,0 +1,10 @@
+node_modules
+.env
+cache
+artifacts
+data/merkle-tree.json
+data/proofs.json
+coverage
+coverage.json
+typechain
+typechain-types
